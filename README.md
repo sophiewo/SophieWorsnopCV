@@ -17,12 +17,12 @@
 - Shortlisted for the Helen Hamlyn Prize for Design
 
 #### University of Bath - Bath (2009 to 2013)
-  BSc Architecture(Hons)
+  **BSc Architecture(Hons)
 
 - Winner of the Stide Treglowen Prize for Design Excellence
 
 #### The European School, Culham - Oxfordshire (1995 to 2009)
-  European Baccauleate (equivilent to A*, A*, A, A at A-Level)
+  **European Baccauleate (equivilent to A*, A*, A, A at A-Level)
 
   Subjects:
   - Maths
