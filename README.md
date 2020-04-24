@@ -37,7 +37,7 @@
 
 ## Experience
 
-#### dRMM Architects, London ** 
+#### dRMM Architects, London
 ###### http://drmm.co.uk/
 #### Architectural Asssistant (RIBA Part II)
 October 2013 - December 2019
@@ -60,7 +60,7 @@ October 2013 - December 2019
       Writing and maintaining scripts to improve design workflow and productivity
 
 #### Berman Guedes Stretton Architects, Oxford
-###### website
+https://www.bgsarchitects.co.uk/
 ##### Architectural Assistant (RIBA Part I)
 Febuary 2011 - October 2013 (3 x 6 month placements during BSc Architecture Study)   
 
