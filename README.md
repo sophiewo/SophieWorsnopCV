@@ -4,7 +4,7 @@
 
 ## Education
 
-#### Makers Academy (January 2020 - April 2020)
+#### Makers Academy (May 2020 - July 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
